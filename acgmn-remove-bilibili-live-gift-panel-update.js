@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Remove Bilibili Live Gift Panel
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  Remove gift panel from bilibili live page
+// @namespace    ACGMN
+// @version      0.1.2
+// @description  Remove gift panel from bilibili live page 去除b站直播间礼物面板
 // @author       ACGMN
 // @license      MIT
 // @downloadURL  https://raw.githubusercontent.com/ACGNnsj/RemoveBilibiliLiveGiftPanel/main/acgmn-remove-bilibili-live-gift-panel-update.js
