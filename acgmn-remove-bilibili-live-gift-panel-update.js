@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Remove gift panel from bilibili live page
 // @author       ACGMN
+// @downloadURL  https://raw.githubusercontent.com/ACGNnsj/RemoveBilibiliLiveGiftPanel/main/acgmn-remove-bilibili-live-gift-panel-update.js
 // @updateURL    https://raw.githubusercontent.com/ACGNnsj/RemoveBilibiliLiveGiftPanel/main/acgmn-remove-bilibili-live-gift-panel-update.js
 // @match        *://live.bilibili.com/*
 // @icon         https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://live.bilibili.com&size=64
