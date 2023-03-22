@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Remove gift panel from bilibili live page
 // @author       ACGMN
+// @license      MIT
 // @downloadURL  https://raw.githubusercontent.com/ACGNnsj/RemoveBilibiliLiveGiftPanel/main/acgmn-remove-bilibili-live-gift-panel-update.js
 // @updateURL    https://raw.githubusercontent.com/ACGNnsj/RemoveBilibiliLiveGiftPanel/main/acgmn-remove-bilibili-live-gift-panel-update.js
 // @match        *://live.bilibili.com/*
