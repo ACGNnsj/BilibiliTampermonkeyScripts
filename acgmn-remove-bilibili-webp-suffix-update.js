@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Remove Bilibili WebP Suffix
 // @namespace    ACGMN
-// @version      0.1.0
+// @version      0.1.1
 // @description  Remove gift panel from bilibili live page 去除b站图片webp后缀
 // @author       ACGMN
 // @license      MIT
@@ -20,5 +20,5 @@
         if(location.href.endsWith('webp')){
             location.href = location.href.substring(0,location.href.lastIndexOf('@'))
         }
-    }, 100)
+    }, 1000)
 })();
