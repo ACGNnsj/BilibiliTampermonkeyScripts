@@ -2,6 +2,7 @@
 // @name         Steam Workshop Cover Fix
 // @namespace    ACGMN
 // @version      0.1
+// @description  Fix Steam workshop cover images    修复Steam创意工坊封面图
 // @author       ACGMN
 // @license      MIT
 // @match        https://steamcommunity.com/sharedfiles/filedetails/?id=*
